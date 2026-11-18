@@ -1,5 +1,5 @@
 export class Pedido {
-    nombreCliente: string;
+    nombre: string;
     total: number;
     tipo: string;
     medioPago: string;
